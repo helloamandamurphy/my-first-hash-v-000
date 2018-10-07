@@ -1,5 +1,5 @@
 def my_hash
-  your_hash[key] = "Value"
+  my_hash[key] = "Value"
 end
 
 
